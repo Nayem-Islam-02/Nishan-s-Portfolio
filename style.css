@@ -1,0 +1,49 @@
+body{
+    background-color: rgba(40, 35, 35, 0.98);
+}
+
+
+.qwitcher-grypen-regular {
+    font-family: "Qwitcher Grypen", cursive;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  .qwitcher-grypen-bold {
+    font-family: "Qwitcher Grypen", cursive;
+    font-weight: 700;
+    font-style: normal;
+  }
+  
+
+  #filter{
+    border:2px solid rgba(255,255,255,0.1);
+    position:absolute;
+    width: 9.063rem;
+    height:3.125rem;
+    margin:0 auto;
+    margin-left:-4rem;
+    margin-top:-14rem;
+    background: linear-gradient(135deg, rgba(255,255,255,0.1), rgba(255,255,255,0));
+    backdrop-filter:blur(0.625rem);
+    border-radius:1rem;
+    box-shadow:0 1.18 0.787 0  rgba(0,0,0,0.17);
+    z-index: 12;
+  }
+
+  #filter-2{
+
+    border:2px solid rgba(255,255,255,0.1);
+    position:absolute;
+    width: 9.063rem;
+    height:3.125rem;
+    margin:0 auto;
+    margin-left:7rem;
+    margin-top:-5rem;
+    background: linear-gradient(135deg, rgba(255,255,255,0.1), rgba(255,255,255,0));
+    backdrop-filter:blur(0.625rem);
+    border-radius:1rem;
+    box-shadow:0 1.18 0.787 0  rgba(0,0,0,0.17);
+    z-index: 12;
+
+  }
